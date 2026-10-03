@@ -61,22 +61,6 @@ If you're learning Python and don't know what to build, pick a project and try c
 
 ---
 
-## 📈 What's Next?
-
-More projects will be added as I continue learning Python.
-
-* [ ] To-Do List
-* [ ] Contact Management System
-* [ ] Quiz Application
-* [ ] Password Generator
-* [ ] File Organizer
-* [ ] Student Management System
-* [ ] Weather Application
-* [ ] Python + SQL Projects
-* [ ] Python + Streamlit Projects
-
----
-
 ## ⭐ Support
 
 If you find this repository useful for learning Python, consider giving it a ⭐.
